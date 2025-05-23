@@ -15,7 +15,7 @@ PIN_BLACK = 17
 PIN_DIAL = 26
 PIN_RELAY = 14
 
-TEST_MODE = True
+TEST_MODE = False
 
 positions = [
     [1,0],
